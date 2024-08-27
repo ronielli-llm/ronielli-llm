@@ -13,7 +13,6 @@
   <img src="https://skillicons.dev/icons?i=react" height="50"/>
 </div>
 
-# 📊 GitHub Status:
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roniandradee&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!-- # 📊 GitHub Status:
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronielli-llm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 <hr>
